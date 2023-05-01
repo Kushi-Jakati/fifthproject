@@ -1,0 +1,171 @@
+Here are the software engineers, professors, and doctors printed out through toString, which was inherited by the Jobs class but also overridden:
+
+Unsorted Software Engineers:
+
+Name: Lawrence Robinson
+Salary: $62834
+Hours: 2
+Field: Computer Science
+Remote: false
+Specialization: Game Development
+Number of Programming Languages Known: 6
+
+Name: Larry Walker
+Salary: $36967
+Hours: 9
+Field: Computer Science
+Remote: false
+Specialization: Web Development
+Number of Programming Languages Known: 7
+
+Name: Eric Ross
+Salary: $52894
+Hours: 9
+Field: Computer Science
+Remote: false
+Specialization: Game Development
+Number of Programming Languages Known: 2
+
+
+Sorted Software Engineers (by salary):
+
+Name: Larry Walker
+Salary: $36967
+Hours: 9
+Field: Computer Science
+Remote: false
+Specialization: Web Development
+Number of Programming Languages Known: 7
+
+Name: Eric Ross
+Salary: $52894
+Hours: 9
+Field: Computer Science
+Remote: false
+Specialization: Game Development
+Number of Programming Languages Known: 2
+
+Name: Lawrence Robinson
+Salary: $62834
+Hours: 2
+Field: Computer Science
+Remote: false
+Specialization: Game Development
+Number of Programming Languages Known: 6
+
+Unsorted Professors:
+
+Name: Lawrence Edwards
+Salary: $82172
+Hours: 4
+Field: Education
+University: University of Florida
+Subject: Geology
+Number of Classes: 5
+
+Name: Russell Bell
+Salary: $56836
+Hours: 23
+Field: Education
+University: University of California, Santa Cruz
+Subject: Philosophy
+Number of Classes: 1
+
+Name: Jason Edwards
+Salary: $79623
+Hours: 13
+Field: Education
+University: University of Wisconsin-Madison
+Subject: Law
+Number of Classes: 0
+
+
+Sorted Professors (by university, in alphabetic order):
+
+Name: Russell Bell
+Salary: $56836
+Hours: 23
+Field: Education
+University: University of California, Santa Cruz
+Subject: Philosophy
+Number of Classes: 1
+
+Name: Lawrence Edwards
+Salary: $82172
+Hours: 4
+Field: Education
+University: University of Florida
+Subject: Geology
+Number of Classes: 5
+
+Name: Jason Edwards
+Salary: $79623
+Hours: 13
+Field: Education
+University: University of Wisconsin-Madison
+Subject: Law
+Number of Classes: 0
+
+Unsorted Doctors:
+
+Name: Gary Parker
+Salary: $19830
+Hours: 2
+Field: Medicine
+Specialization: Rheumatology
+Hospital: Baylor Scott & White All Saints Medical Center - Fort Worth
+Number of Patients: 742
+
+Name: Samuel Harris
+Salary: $68905
+Hours: 22
+Field: Medicine
+Specialization: Pain Medicine
+Hospital: BJC HealthCare St. Luke's Urgent Care - O'Fallon
+Number of Patients: 236
+
+Name: Bobby Mitchell
+Salary: $71590
+Hours: 2
+Field: Medicine
+Specialization: Pulmonology
+Hospital: BJC HealthCare St. Luke's Urgent Care - Ladue
+Number of Patients: 971
+
+
+Sorted Doctors (by # of patients):
+
+Name: Samuel Harris
+Salary: $68905
+Hours: 22
+Field: Medicine
+Specialization: Pain Medicine
+Hospital: BJC HealthCare St. Luke's Urgent Care - O'Fallon
+Number of Patients: 236
+
+Name: Gary Parker
+Salary: $19830
+Hours: 2
+Field: Medicine
+Specialization: Rheumatology
+Hospital: Baylor Scott & White All Saints Medical Center - Fort Worth
+Number of Patients: 742
+
+Name: Bobby Mitchell
+Salary: $71590
+Hours: 2
+Field: Medicine
+Specialization: Pulmonology
+Hospital: BJC HealthCare St. Luke's Urgent Care - Ladue
+Number of Patients: 971
+
+Here is a software engineer's, doctor's, and professor's favorite quote (respectively) for their fields. This was built from the abstract method of the Jobs class
+
+Lawrence Robinson's Favorite Comp Sci Quote:
+ "Computers are incredibly fast, accurate, and stupid."
+
+Jason Edwards's Favorite Education Quote:
+ "Education: the path from cocky ignorance to miserable uncertainty."
+
+Bobby Mitchell's Favorite Medicine Quote:
+ "The good physician treats the disease; the great physician treats the patient who has the disease."
